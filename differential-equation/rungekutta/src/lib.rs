@@ -1,3 +1,6 @@
+pub mod rk4th;
+pub mod vector;
+
 #[cfg(test)]
 mod tests {
     #[test]
